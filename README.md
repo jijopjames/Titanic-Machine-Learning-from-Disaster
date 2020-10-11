@@ -1,7 +1,6 @@
 # Titanic-Machine-Learning-from-Disaster
 
 ## [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) 
-This project House prices estimator based on the kaggel competition data.
 
 This model is based on Logistic Regression.
 
